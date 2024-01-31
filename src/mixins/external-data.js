@@ -5,31 +5,31 @@ import axios from "axios";
 
 const pluginsDefaults = {
     core: {
-        name: "EssentialsX",
+        name: "EssentialsXs",
         description: "Core functionality: teleports, private messages, homes, warps and more",
         downloadUrl: null,
         tags: [{ text: 'REQUIRED' }]
     },
     antibuild: {
-        name: "EssentialsX AntiBuild",
+        name: "EssentialsX AntiBuilds",
         description: "Simple permissions-based building control",
         downloadUrl: null,
         tags: [{ text: 'OPTIONAL', color: 'light' }]
     },
     chat: {
-        name: "EssentialsX Chat",
+        name: "EssentialsX Chats",
         description: "Chat formatting, local chat",
         downloadUrl: null,
         tags: [{ text: 'RECOMMENDED', color: 'info' }, { text: 'OPTIONAL', color: 'light' }]
     },
     discord: {
-        name: "EssentialsX Discord",
+        name: "EssentialsX Discords",
         description: "Lightweight chat, messaging and command integration with Discord",
         downloadUrl: null,
         tags: [{ text: 'OPTIONAL', color: 'light' }]
     },
     discordlink: {
-        name: "EssentialsX Discord Link",
+        name: "EssentialsX Discord Links",
         description: "Account sync between Discord and Minecraft",
         downloadUrl: null,
         tags: [{ text: 'BETA', color: 'link' }, { text: 'OPTIONAL', color: 'light' }, { text: 'REQUIRES DISCORD ADDON', color: 'discord' }]
