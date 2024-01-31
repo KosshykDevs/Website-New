@@ -4,7 +4,7 @@
             <div class="column">
                 <div class="buttons has-addons">
                     <b-button
-                        label="Stable release"
+                        label="Stable 1 release"
                         @click="branch = 'stable'"
                         :loading="this.external.builds['stable'].loading"
                         :type="branch == 'stable' ? 'is-primary' : null"
