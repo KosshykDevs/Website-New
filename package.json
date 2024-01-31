@@ -1,9 +1,9 @@
 {
   "name": "essentialsx-docs",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Documentation for EssentialsX",
   "main": "index.js",
-  "author": "md678685",
+  "author": "md678685 and KosshykDevs",
   "license": "MIT",
   "dependencies": {
     "@highlightjs/vue-plugin": "1.0.2",
